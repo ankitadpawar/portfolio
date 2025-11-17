@@ -554,7 +554,7 @@ this web site all about my brief introduction with the tech touch to showcase my
             <a href="#skills">Skills</a>
             <a href="#projects">Projects</a>
             <a href="#contact">Contact</a>
-            <a href="ANKIT_ADPAWAR_CV.pdf" class="nav-btn" download>Download CV</a>
+            <a href="C:\Users\asus\Downloads\ANKIT ADPAWAR CV.docx" class="nav-btn" download>Download CV</a>
         </nav>
         <div class="menu-toggle" id="menuToggle">
             <span></span>
@@ -820,7 +820,7 @@ this web site all about my brief introduction with the tech touch to showcase my
                 <h3>Contact Details</h3>
                 <p class="contact-line">📧 Email: <a href="mailto:ankitadpawar898@gmail.com">ankitadpawar898@gmail.com</a></p>
                 <p class="contact-line">📱 Phone: +91-8080705756</p>
-                <p class="contact-line">🔗 LinkedIn: <a href="https://linkedin.com/in/ankit-adpawar-078332238" target="_blank">linkedin.com/in/ankit-adpawar-078332238</a></p>
+                <p class="contact-line">🔗 LinkedIn: <a href="https://www.linkedin.com/in/ankit-adpawar-078332238/" target="_blank">linkedin.com/in/ankit-adpawar-078332238/</a></p>
                 <p class="contact-line">💻 GitHub: <a href="https://github.com/ankitadpawar" target="_blank">github.com/ankitadpawar</a></p>
                 <p class="contact-line" style="margin-top: 8px;">If you’d like to discuss an opportunity or project, feel free to mail me directly or use the form.</p>
             </div>
