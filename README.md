@@ -554,7 +554,7 @@ this web site all about my brief introduction with the tech touch to showcase my
             <a href="#skills">Skills</a>
             <a href="#projects">Projects</a>
             <a href="#contact">Contact</a>
-            <a href="C:\Users\asus\Downloads\ANKIT ADPAWAR CV.docx" class="nav-btn" download>Download CV</a>
+            <a href=""C:\Users\asus\Downloads\MY resume .pdf"" class="nav-btn" download>Download CV</a>
         </nav>
         <div class="menu-toggle" id="menuToggle">
             <span></span>
@@ -670,7 +670,7 @@ this web site all about my brief introduction with the tech touch to showcase my
         <div class="timeline">
             <div class="exp-item">
                 <p class="exp-role">Data Analyst Intern</p>
-                <p class="exp-meta">Coreline Solutions Pvt Ltd, Pune • Jul 2025 – Sep 2025</p>
+                <p class="exp-meta">Coreline Solutions Pvt Ltd, Pune • Jul 2025 – dec 2025</p>
                 <ul class="exp-bullets">
                     <li>Performed data cleaning and exploratory analysis on business datasets to support reporting and decision-making.</li>
                     <li>Helped automate recurring reporting workflows using Python, reducing manual effort for the team.</li>
@@ -710,7 +710,7 @@ this web site all about my brief introduction with the tech touch to showcase my
                 <div class="skills-list">
                     <span class="skill-pill">Problem Solving</span>
                     <span class="skill-pill">Teamwork</span>
-                    <span class="skill-pill">Agile Ways of Working</span>
+                    <span class="skill-pill">Agile methodologies </span>
                     <span class="skill-pill">Communication</span>
                 </div>
             </div>
